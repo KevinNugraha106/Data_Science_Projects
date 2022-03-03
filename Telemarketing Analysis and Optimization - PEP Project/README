@@ -1,3 +1,8 @@
 This project is made as a part of final assignment in 'PEP Project' by Tanoto Foundation at November 4th, 2021.
 
+Used dataset    : "Dataset-PEP.xlsx"
+Used Algorithm  : RandomForestClassifer
+# of records    : 45211
+Target          : 'CONVERT' an binary-label --> [Yes: 5289], [No: 39922]
+
 -- See the details off the project at the PPT file "Project_Explanations and Results_EN.pptx" --
